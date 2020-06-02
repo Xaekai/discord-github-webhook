@@ -1,10 +1,2 @@
 # discord-github-webhook
-Testing the fuckery behind my ongoing problem
-
-Test 1!
-
-Test 2!
-
-Test 3!
-
-Test 4!
+I believe I have confirmed the one that was assigned my support ticket lied to me, and utterly failed to escalate the issue to someone capable. I will now commit the code I used to confirm it.
